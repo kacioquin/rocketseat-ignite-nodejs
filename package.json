@@ -8,7 +8,10 @@
     "test": "jest"
   },
   "dependencies": {
+    "@expo-google-fonts/jost": "^0.1.0",
+    "@expo/vector-icons": "^12.0.4",
     "cors": "^2.8.5",
+    "expo-font": "^9.1.0",
     "express": "^4.17.1",
     "uuid": "^8.3.2"
   },
